@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+<div class="main-container">
+    <form method="POST" action="">
+        {% csrf_token %}
+        <p>Are you sure you want to delete{{item}}?</p>
+        <input class="btn btn-danger" type="submit" value="confirm">
+    </form>
+</div>
+{% endblock %}
