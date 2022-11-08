@@ -26,7 +26,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-##  GETTING STARTED
+##  GETTING STARTED🤖
 
 1 - Install requirements
   pip install -r requirements.txt
