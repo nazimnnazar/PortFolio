@@ -14,7 +14,7 @@ This is a Python based personal  website
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML & CSS\
-⚡️ framework Django
+⚡️ framework Django\
 ⚡️ Easy to modify
 
 ## Sections 📚
