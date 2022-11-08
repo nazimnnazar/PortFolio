@@ -10,8 +10,7 @@
 
 ## About🧾
 This is a Python based personal  website 
-<br>
-Also, I am really happy to say that all the work I have been doing on this website is purely my work.
+ I am really happy to say that all the work I have been doing on this website is purely my work.
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML & CSS\
